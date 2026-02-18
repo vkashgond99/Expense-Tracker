@@ -2,7 +2,7 @@
 
 A modern, full-featured expense tracking application built with Next.js, featuring intelligent budget management, transaction tracking, and AI-powered financial insights.
 
-🌐 **Live Demo**: [https://expense-tracker-alan-saji.vercel.app/](https://expense-tracker-alan-saji.vercel.app/)
+🌐 **Live Link**: [https://expense-tracker-alan-saji.vercel.app/](https://expense-tracker-alan-saji.vercel.app/)
 
 ## ✨ Features
 

@@ -88,19 +88,6 @@ npm run dev
 
 Visit [http://localhost:3000](http://localhost:3000) to start using the app!
 
-## 🤖 AI Provider Setup
-
-### Free Options (Recommended)
-1. **Groq** (Free, Fast): Get API key at [console.groq.com](https://console.groq.com/)
-2. **Ollama** (Local, Private): Install from [ollama.ai](https://ollama.ai/)
-3. **Mock** (Development): No setup required, works out of the box
-
-### Paid Options
-- **OpenAI**: Premium AI with GPT models
-- **xAI (Grok)**: Elon Musk's AI platform
-
-See [AI_SETUP_GUIDE.md](AI_SETUP_GUIDE.md) for detailed setup instructions.
-
 ## 📱 Key Features Walkthrough
 
 ### Dashboard Overview
@@ -197,27 +184,4 @@ We welcome contributions! Please follow these steps:
 4. Push to branch: `git push origin feature/amazing-feature`
 5. Open a Pull Request
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 🙏 Acknowledgments
-
-- [Next.js](https://nextjs.org/) for the amazing React framework
-- [Clerk](https://clerk.com/) for seamless authentication
-- [Drizzle ORM](https://orm.drizzle.team/) for type-safe database operations
-- [Tailwind CSS](https://tailwindcss.com/) for utility-first styling
-- [Shadcn/ui](https://ui.shadcn.com/) for beautiful UI components
-- [Groq](https://groq.com/) for fast and free AI inference
-
-## 📞 Support & Contact
-
-- 📧 **Email**: [rockstaralansaji@gmail.com](mailto:rockstaralansaji@gmail.com)
-- 🐛 **Issues**: [GitHub Issues](https://github.com/Alansaji2003/expense-tracker/issues)
-- 🌐 **Live Demo**: [https://expense-tracker-alan-saji.vercel.app/](https://expense-tracker-alan-saji.vercel.app/)
-
----
-
-**Made with ❤️ by Alan Saji**
-
-⭐ Star this repository if you find it helpful!
+**Made with ❤️ by Vikash Kumar Gond**
